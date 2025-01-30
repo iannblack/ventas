@@ -3,6 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine, Column, Integer, String, Float, Date
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import declarative_base
 from datetime import datetime
 
 # Aquí realizo la configuración de la base de datos.
