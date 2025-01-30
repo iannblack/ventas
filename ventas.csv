@@ -1,0 +1,11 @@
+id,producto,cantidad,precio,fecha
+1,Producto A,10,200,2025-01-01
+2,Producto B,5,150,2025-01-02
+3,Producto A,8,200,2025-01-03
+4,Producto C,12,100,2025-01-04
+5,Producto B,3,150,2025-01-05
+6,Producto A,7,200,2025-01-06
+7,Producto C,6,100,2025-01-07
+8,Producto B,10,150,2025-01-08
+9,Producto A,5,200,2025-01-09
+10,Producto C,8,100,2025-01-10
